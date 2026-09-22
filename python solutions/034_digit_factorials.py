@@ -6,7 +6,11 @@
     # https://github.com/mang-s/Project-Euler-Solutions
     #
 
-def solution() -> list:
+    # Also added in a factorial calculating function with recursion, just for fun.
+    # These numbers are called "factorions"
+    # Learn more: https://mathworld.wolfram.com/Factorion.html
+
+def solution(rangemax: int) -> list:
     
     mapper = dict()
 
@@ -15,7 +19,7 @@ def solution() -> list:
 
     valid = set()
 
-    for i in range(3, 1000000):
+    for i in range(3, rangemax):
         valid.add(logic(mapper, i))
 
     valid.remove(None)
@@ -56,4 +60,4 @@ def factorial(mapper: dict, num: int) -> int:
 
 if __name__ == "__main__":
     
-    print(solution())
+    print(solution(1000000))
