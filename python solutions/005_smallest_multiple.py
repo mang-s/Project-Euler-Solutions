@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 04/04/25
     #
     # https://projecteuler.net/problem=5
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
     
 from math import lcm

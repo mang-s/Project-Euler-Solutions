@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 28/04/25
     #
     # https://projecteuler.net/problem=23
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
 def non_abundant_sums(rangemax: int = 28123) -> int:

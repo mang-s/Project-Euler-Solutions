@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 04/04/25
     #
     # https://projecteuler.net/problem=6
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
 def sum_square_difference(rangemax: int = 100) -> int:

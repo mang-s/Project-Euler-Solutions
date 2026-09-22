@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 06/04/25
     #
     # https://projecteuler.net/problem=17
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
     
 def nunmber_letter_counts(rangemax: int = 1000) -> int:

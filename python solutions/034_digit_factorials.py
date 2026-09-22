@@ -2,7 +2,7 @@
     # Solved by mang-s
     # Date: 22/09/26
     #
-    # https://projecteuler.net/problem=31
+    # https://projecteuler.net/problem=34
     # https://github.com/mang-s/Project-Euler-Solutions
     #
 

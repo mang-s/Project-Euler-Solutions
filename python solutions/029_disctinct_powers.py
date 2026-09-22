@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 22/08/25
     #
     # https://projecteuler.net/problem=29
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
 def distinct_powers(a_rangemin: int = 2, a_rangemax: int = 100, b_rangemin: int = 2, b_rangemax: int = 100) -> int:

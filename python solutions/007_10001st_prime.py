@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 05/04/25
     #
     # https://projecteuler.net/problem=7
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
 def nth_prime(nth_prime: int = 10001) -> int:

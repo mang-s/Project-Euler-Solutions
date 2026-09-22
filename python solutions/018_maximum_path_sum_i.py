@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 28/04/25
     #
     # https://projecteuler.net/problem=18
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
     
     # We need to use Dynamic Programming. This page helped a lot: https://www.geeksforgeeks.org/dynamic-programming/

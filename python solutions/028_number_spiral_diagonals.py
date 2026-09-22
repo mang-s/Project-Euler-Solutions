@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 22/08/25
     #
     # https://projecteuler.net/problem=28
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
     # Sum of all terms on the two principal diagonals of a 2n+1 X 2n+1 square spiral is given

@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 22/08/25
     #
     # https://projecteuler.net/problem=30
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
     # The maximum value for one digit is 9^5 = 59049. We can find out the maximum possible sum for a given number of digits by 

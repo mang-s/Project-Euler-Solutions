@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 28/04/25
     #
     # https://projecteuler.net/problem=67
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
     
     # This is the same problem as 018 but with a bigger triangle.

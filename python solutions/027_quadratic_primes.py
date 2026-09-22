@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 22/08/25
     #
     # https://projecteuler.net/problem=27
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
     
     # We need to find the pair of coefficients (a, b) for which the quadratic formula n^2 + an + b 

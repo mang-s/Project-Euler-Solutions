@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 06/04/25
     #
     # https://projecteuler.net/problem=13
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
 def large_sum(big_numbers: list, n_digits: int = 10) -> str:

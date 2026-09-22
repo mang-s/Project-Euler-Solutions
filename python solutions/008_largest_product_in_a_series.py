@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 05/04/25
     #
     # https://projecteuler.net/problem=8
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
 def largest_product(sequence: str, adjacent_digits: int = 13) -> int:

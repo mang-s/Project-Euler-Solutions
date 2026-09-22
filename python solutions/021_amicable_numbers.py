@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 28/04/25
     #
     # https://projecteuler.net/problem=21
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
 def amicable_numbers(rangemax: int = 10000) -> int:

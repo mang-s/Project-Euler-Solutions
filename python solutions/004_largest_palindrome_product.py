@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 03/04/25
     #
     # https://projecteuler.net/problem=4
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
 def largest_palindrome_product(rangemax: int = 999) -> int:

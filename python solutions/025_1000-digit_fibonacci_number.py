@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 29/04/25
     #
     # https://projecteuler.net/problem=25
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
     
 def thousand_digit_fib_number(target: int = 1000) -> int:

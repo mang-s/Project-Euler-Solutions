@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 06/04/25
     #
     # https://projecteuler.net/problem=12
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
     # This helped A LOT for this problem: https://web.archive.org/web/20180103053938/http://mathforum.org/library/drmath/view/55843.html

@@ -1,9 +1,9 @@
     #
-    # Solved by Miguecetin
+    # Solved by mang-s
     # Date: 22/08/25
     #
     # https://projecteuler.net/problem=31
-    # https://github.com/Miguecetin/Project-Euler-Solutions
+    # https://github.com/mang-s/Project-Euler-Solutions
     #
 
     # Coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 (100p), and £2 (200p).
