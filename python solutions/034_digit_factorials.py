@@ -10,7 +10,7 @@
     # These numbers are called "factorions"
     # Learn more: https://mathworld.wolfram.com/Factorion.html
 
-def solution(rangemax: int) -> list:
+def solution(rangemax: int) -> int:
     
     mapper = dict()
 
@@ -26,7 +26,7 @@ def solution(rangemax: int) -> list:
 
     return sum(valid)
 
-def logic(mapper: dict, current_num: int):
+def logic(mapper: dict, current_num: int) -> int:
 
     elements = [i for i in str(current_num)] # get the number's digits
     
@@ -38,7 +38,7 @@ def logic(mapper: dict, current_num: int):
         res = current_num
     return res
 
-def factorial(mapper: dict, num: int) -> int:
+def factorial(mapper: dict, num: int) -> dict, int:
     res = 1
     
     if num not in mapper.keys(): # the factorial HAS NOT been calculated before
