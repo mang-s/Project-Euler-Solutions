@@ -1,6 +1,6 @@
     #
     # Solved by mang-s
-    # Date: 22/08/25
+    # Date: 22/09/25
     #
     # https://projecteuler.net/problem=32
     # https://github.com/mang-s/Project-Euler-Solutions
@@ -32,6 +32,7 @@ def get_components(product: int) -> list(tuple()):
 
 def is_product_pandigital(identities: list(tuple())) -> bool:
     # identities is a list of tuples containing all combinations of mutiplicand, multiplier and product
+    # for a given product
 
     res = False
     for multiplicand, multiplier, product in identities:
